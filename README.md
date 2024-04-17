@@ -77,4 +77,8 @@ Dashboard: Within this section, you will find two sheets - one dedicated to the 
 Data Source
 The Superstore Sales Data used in this project can be accessed here.
 
+License
+This project is licensed under the MIT License. You are free to use, modify, and distribute the code and visuals as long as the original license terms are maintained.
+Enjoy exploring the Power BI Sales Insights and Forecasting Dashboard! If you have questions or feedback, feel free to contact me.
 
+Contact: Kashifkhan4013@gmail.com
